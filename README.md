@@ -1,28 +1,20 @@
-📊 AllLife Bank Personal Loan Prediction
-Optimizing Marketing Strategy Using Data Analytics & Machine Learning
+# AllLife Bank — Personal Loan Adoption Prediction
 
-This project leverages data analytics and machine learning to help AllLife Bank identify liability customers who are most likely to purchase a personal loan. By predicting loan adoption probability and understanding customer behavior patterns, the bank can significantly improve marketing effectiveness, targeting accuracy, and overall revenue growth.
+Use data and machine learning to identify liability customers most likely to accept a personal loan offer, so marketing resources are targeted where they’ll have the greatest impact.
 
-🚀 Project Objectives
+## Project Goals
+- Predict the probability that a liability customer will accept a personal loan offer.
+- Rank and explain the customer features that most influence adoption.
+- Perform exploratory data analysis (EDA) to surface behavioral patterns and segmentation opportunities.
+- Build, evaluate, and compare interpretable ML models (e.g., Decision Tree, Logistic Regression), and provide actionable recommendations to optimize campaign targeting.
 
-Predict whether a liability customer will accept a personal loan offer.
+## Key Features
+- Clean, reproducible EDA and feature engineering pipeline.
+- Baseline and interpretable classification models with evaluation.
+- Model comparison using accuracy, confusion matrix, precision/recall, and ROC-AUC.
+- Short actionable playbook for marketing to prioritize outreach.
 
-Identify the most important customer attributes influencing loan adoption.
-
-Perform exploratory data analysis (EDA) to uncover behavioral patterns.
-
-Build ML models such as Decision Trees and Regression.
-
-Provide actionable insights to optimize marketing campaigns.
-
-🧰 Skills & Tools Used
-Category	Tools / Techniques
-Programming	Python
-Libraries	NumPy, Pandas, Matplotlib, Seaborn
-ML Framework	Scikit-learn (sklearn)
-Data Analysis	EDA, Feature Engineering
-ML Algorithms	Linear Regression, Decision Tree Classifier, Clustering (Optional), Classification Models
-Evaluation	Accuracy, Confusion Matrix, ROC-AUC
-
-
-
+## Tech Stack
+- Language: Python
+- Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+- Techniques: EDA, feature engineering, classification (Logistic Regression, Decision Tree), model evaluation, simple explainability (feature importance, partial dependence as applicable)
